@@ -1,0 +1,2 @@
+Model,Mean Squared Error,Mean Absolute Error,Root Mean Squared Error,R-squared,Mean Absolute Percentage Error
+LSTM Model,0.0021065117846933933,0.03647714264007938,0.04589675135228411,0.9233670350948883,1.6922377642361486

@@ -1,0 +1,5 @@
+//agregar venv y __pycache__ a .gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+venv
+index.lock
