@@ -107,7 +107,7 @@ Resultados
 Después de ejecutar el script, los resultados se guardarán como gráficos, lo que te permitirá comparar los precios reales con los predichos.
 
 ------------------------------------------------------
-## 🛠️ Modo de uso
+## Modo de uso
 ### Backend
 ```bash
 # 1. Navegar al directorio backend
